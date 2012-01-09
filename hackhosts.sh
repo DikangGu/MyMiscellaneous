@@ -1,3 +1,3 @@
 #! /bin/sh
 
-sudo cp /etc/hosts_20111102 /etc/hosts
+sudo cp /etc/hosts_20120109 /etc/hosts
